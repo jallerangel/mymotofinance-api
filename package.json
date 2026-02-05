@@ -1,7 +1,7 @@
 {
   "name": "mymotofinance-api",
-  "version": "0.0.1",
-  "description": "",
+  "version": "1.0.0",
+  "description": "Core RESTful API for MyMotoFinances Platform. Handles auth, ride sessions, financial goal tracking, and automated event ingestion from Android services. Built with NestJS and Prisma.",
   "author": "jallerangel",
   "private": true,
   "license": "MIT",
